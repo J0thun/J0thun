@@ -2,6 +2,6 @@
 
 
 - 🌱 I’m currently learning on :
-   - Lua , html , mysql , js , vuejs
+   - vuejs, css, js, Lua, mysql
 - 🌱 I code on :
    - VSCODE
